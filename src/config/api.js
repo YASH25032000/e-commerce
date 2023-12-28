@@ -1,6 +1,7 @@
 
 import axios from 'axios';
-const LOCALHOST='http://localhost:5454'
+const LOCALHOST='https://e-commerce-sb-production.up.railway.app';
+//const LOCALHOST='http://localhost:5454';
 
 export const API_BASE_URL = LOCALHOST
 
